@@ -1,0 +1,240 @@
+{
+  "name": "ALOK RANJAN",
+  "tagline": "Full-Stack Developer & UI Architect",
+  "bio": "I build fast, beautiful, and accessible web experiences. Passionate about clean code, thoughtful design, and solving hard problems with elegant solutions.",
+  "bio_extended": "With 5+ years building production systems, I've shipped products used by millions. I specialize in Python, modern JavaScript, and turning complex requirements into simple interfaces.",
+  "location": "GREATER NOIDA",
+  "email": "alokranjan32878@gmail.com",
+  "phone": "834076xxx",
+  "website": "https://alexmorgan.dev",
+  "resume_url": "",
+  "photo": "/uploads/profile_f7b2bdfaff.jpg",
+  "available": true,
+  "theme": "dark",
+  "accent": "#00d4ff",
+  "social_links": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/phoenix-0-1",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alok-ranjan-958768376?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "icon": "Linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/",
+      "icon": "twitter"
+    },
+    {
+      "platform": "Dev.to",
+      "url": "https://dev.to/alok_ranjan_dbad798552d4c",
+      "icon": "dev"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/alok32878?igsh=MXhnYmVlM2hraml3ag==",
+      "icon": "instagram"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": 92,
+      "category": "Backend"
+    },
+    {
+      "name": "Flask/FastAPI",
+      "level": 88,
+      "category": "Backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 82,
+      "category": "Backend"
+    },
+    {
+      "name": "JavaScript",
+      "level": 90,
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": 95,
+      "category": "Frontend"
+    },
+    {
+      "name": "React",
+      "level": 78,
+      "category": "Frontend"
+    },
+    {
+      "name": "Docker",
+      "level": 75,
+      "category": "DevOps"
+    },
+    {
+      "name": "Git",
+      "level": 90,
+      "category": "DevOps"
+    },
+    {
+      "name": "Figma",
+      "level": 80,
+      "category": "Design"
+    },
+    {
+      "name": "UI/UX Design",
+      "level": 75,
+      "category": "Design"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "DataFlow Studio",
+      "description": "A real-time data pipeline visualization tool that turns complex ETL processes into interactive node graphs. Handles 10M+ events/day.",
+      "long_desc": "",
+      "tags": [
+        "Python",
+        "React",
+        "WebSocket",
+        "PostgreSQL"
+      ],
+      "url": "",
+      "github": "",
+      "image": "",
+      "featured": true,
+      "status": "Live",
+      "color": "#00d4ff"
+    },
+    {
+      "id": "proj-2",
+      "title": "file summarizer",
+      "description": "Open-source React component library with 60+ accessible, themeable components. 2.4k GitHub stars.",
+      "long_desc": "",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Storybook",
+        "CSS"
+      ],
+      "url": "",
+      "github": "",
+      "image": "",
+      "featured": true,
+      "status": "Open Source",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "proj-3",
+      "title": "Sentinel Monitor",
+      "description": "Infrastructure monitoring dashboard with ML-based anomaly detection. Reduced incident response time by 60%.",
+      "long_desc": "",
+      "tags": [
+        "Python",
+        "Flask",
+        "ML",
+        "Redis"
+      ],
+      "url": "",
+      "github": "",
+      "image": "",
+      "featured": false,
+      "status": "Live",
+      "color": "#10b981"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "TechCorp Inc.",
+      "role": "Senior Software Engineer",
+      "period": "2025 – Present",
+      "location": "greater noida",
+      "description": "Leading backend architecture for a SaaS platform serving 1k+ users. Built microservices handling 50M requests/day.",
+      "tags": [
+        "Python",
+        "Flask",
+        "Kubernetes",
+        "PostgreSQL"
+      ],
+      "current": true
+    },
+    {
+      "id": "exp-2",
+      "company": "StartupLab",
+      "role": "Full-Stack Engineer",
+      "period": "2019 – 2022",
+      "location": "Remote",
+      "description": "First engineering hire. Built the entire product from scratch — from DB schema to pixel-perfect UI. Grew to $2M ARR.",
+      "tags": [
+        "Python",
+        "React",
+        "AWS"
+      ],
+      "current": false
+    },
+    {
+      "id": "exp-3",
+      "company": "Digital Agency Co.",
+      "role": "Frontend Developer",
+      "period": "2017 – 2019",
+      "location": "New York, NY",
+      "description": "Delivered 20+ client websites and web applications. Established front-end coding standards still used today.",
+      "tags": [
+        "JavaScript",
+        "CSS",
+        "WordPress"
+      ],
+      "current": false
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "name": "Sarah Chen",
+      "role": "CTO, TechCorp Inc.",
+      "avatar": "",
+      "text": "Alex is one of the most technically sharp and reliable engineers I've worked with. Ships fast without compromising quality.",
+      "rating": 5
+    },
+    {
+      "id": "t-2",
+      "name": "Marcus Rivera",
+      "role": "Founder, StartupLab",
+      "avatar": "",
+      "text": "Hired Alex as our first engineer and it was the best decision we made. Built our entire platform and helped us reach $2M ARR.",
+      "rating": 5
+    }
+  ],
+  "stats": [
+    {
+      "label": "Years Experience",
+      "value": "5+"
+    },
+    {
+      "label": "Projects Shipped",
+      "value": "40+"
+    },
+    {
+      "label": "Happy Clients",
+      "value": "28"
+    },
+    {
+      "label": "GitHub Stars",
+      "value": "3.2k"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "school": "UC Berkeley",
+      "degree": "B.S. Computer Science",
+      "period": "2013 – 2017",
+      "gpa": "3.8"
+    }
+  ]
+}
